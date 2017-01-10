@@ -10,7 +10,7 @@ import UIKit
 import CoreData
 class CustomFontExample: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
-    var data = ["鲁志超现在很菜，但是正在变强", "改变字体是个很好玩的事情", "《三体这本书不错》", "【想一下】[今晚看什么书]", "!@#$%^&*()", "测试测试测试😀"]
+    var data = ["more stronger,lzc", "改变字体啊啊啊", "《三体这本书不错》", "【想一下】[今晚看什么书]", "!@#$%^&*()", "测试测试测试😀"]
     var fontNames = ["MFTongXin_Noncommercial-Regular", "MFJinHei_Noncommercial-Regular", "MFZhiHei_Noncommercial-Regular", "edundot", "Gaspar Regular"]
     
     var fontRowIndex = 0
